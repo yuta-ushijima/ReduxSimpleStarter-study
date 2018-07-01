@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+const API_KEY = 'AIzaSyBvhL2W0I8uA_ZvgVLvFrTnCvPinOsBzJU';
+
 // 新しいコンポーネントを作成する
 const App = () => {
   return <div>Hi!</div>;
